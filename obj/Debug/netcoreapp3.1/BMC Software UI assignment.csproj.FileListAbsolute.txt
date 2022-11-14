@@ -100,3 +100,5 @@ C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.pdb
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.genruntimeconfig.cache
+C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll

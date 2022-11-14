@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XdmxLdKktIHu9wlrsIREOiVq3ZAi87bANlsLvej5aXMvtxWk/Kr3pHrRfRnh+HTci0tiQ8X/QkJENGRh14XR3A==",
+  "dgSpecHash": "Z/OUhATnoGzi6fPm4eRQdOBCN0W2NXkasypVgtpxQmCqQIxT4S/n9kJHKZn11iJsGIr3ZrAmM5lKB0E3gaKiGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ganesh\\source\\repos\\BMC Software UI assignment\\BMC Software UI assignment.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ganesh\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Ganesh\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
     "C:\\Users\\Ganesh\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Ganesh\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\Ganesh\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
