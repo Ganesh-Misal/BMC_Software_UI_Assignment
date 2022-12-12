@@ -29,7 +29,7 @@ namespace ReadingExcelData
                     //Get all the Tables
                     DataTableCollection table = result.Tables;
                     //Store it in DataTable
-                    DataTable resultTable = table["Sheet1"];
+                    DataTable resultTable = table["Credentials"];
                     //return
                     return resultTable;
                 }

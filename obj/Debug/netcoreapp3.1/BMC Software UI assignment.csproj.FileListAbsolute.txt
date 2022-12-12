@@ -10,6 +10,8 @@ C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\BMC Software UI assignment.runtimeconfig.dev.json
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\BMC Software UI assignment.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\BMC Software UI assignment.pdb
+C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
@@ -91,7 +93,6 @@ C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.csproj.AssemblyReference.cache
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.AssemblyInfoInputs.cache
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.AssemblyInfo.cs
@@ -100,5 +101,4 @@ C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.dll
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.pdb
 C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.genruntimeconfig.cache
-C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
-C:\Users\Ganesh\source\repos\BMC Software UI assignment\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\Ganesh\source\repos\BMC Software UI assignment\obj\Debug\netcoreapp3.1\BMC Software UI assignment.csproj.AssemblyReference.cache

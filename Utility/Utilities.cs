@@ -1,12 +1,13 @@
-﻿using System;
+﻿using BMC_Software_UI_assignment;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BMC_Software_UI_assignment.Utilities
+namespace Utilities
 {
-    class Utilities
+    public class Waits
     {
-        public void wait()
+        public static void implicitWait()
         {
             Config.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
         }
